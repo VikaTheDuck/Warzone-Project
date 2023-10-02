@@ -1,0 +1,12 @@
+loadmap <europe.map>
+validatemap
+addplayer <Ally>
+addplayer <Victoria>
+addplayer <Parker>
+addplayer <Jordan>
+addplayer <Afaf>
+gamestart
+issueorder
+issueordersend
+win
+quit
